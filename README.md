@@ -1,2 +1,2 @@
 # Robinson-Survival
-A student project of a 2D Unity C# game about survival on an island.
+Студенческий проект 2D игры созданный на Unity C# про выживание на острове.
