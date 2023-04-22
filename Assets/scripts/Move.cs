@@ -12,7 +12,7 @@ public class Move : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
+        rb = GetComponent<Rigidbody2D>(); // Старт
     }
 
     // Update is called once per frame
